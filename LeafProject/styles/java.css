@@ -1,0 +1,20 @@
+h1{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: purple;
+    text-decoration: underline;
+    text-align: center;
+}
+img{
+    margin: 50px;
+}
+.para1{
+    font-size: xx-large;
+ font-weight: 700;
+ text-align: center;
+}
+.para2{
+    font-size: x-large;
+    font-style: italic;
+    text-align: center;
+}

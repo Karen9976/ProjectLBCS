@@ -1,0 +1,17 @@
+.logo{
+    margin-left: 550px;
+    margin-top: 70px;
+    height: 300px;
+    width: 300px;
+}
+img{
+    height: 70px;
+    width: 90px;
+}
+.info{
+    margin-left: 500px;
+}
+body{
+    background-color: purple;
+    color: white;
+}
